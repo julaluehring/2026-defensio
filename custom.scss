@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: 'Source Code Pro', sans-serif;
+$presentation-font-size-root: 24px;
+
+$link-color: #8A2BE2;
+$presentation-heading-color: #003C78;
+
+// Study/design-type tag colors
+$color-experiment: #009e73;
+$color-validation: #ff7f00;
+$color-matching: #1f78b4;
+$color-panel: #6a3d9a;
+
+$presentation-h1-font-size: 2.6em;
+$presentation-h2-font-size: 1.6em;
+$presentation-h3-font-size: 1em;
+
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;900&display=swap');
+
+// Heading colors and weights
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-weight: 900;
+}
+
+.reveal h2 {
+  color: #1E8CC8;
+}
+
+// Title slide tweaks
+#title-slide, .reveal .title-slide {
+  margin-top: -100px;
+}
+
+.reveal .title-slide h1.title,
+.reveal .title-slide .title {
+  font-weight: 900;
+  font-size: 1.6em;
+}
+
+.reveal .title-slide .subtitle {
+  font-weight: 600;
+  font-size: 1em;
+}
+
+.reveal .title-slide .author {
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
+.title-slide-logos {
+  display: block;
+  margin: 1.5em auto 0;
+  max-width: 55%;
+  height: auto;
+}
+
+// Hide footer on section-divider slides and the title slide
+.reveal section.present[data-background-color] ~ .footer,
+.reveal section.present.center .footer {
+  display: none !important;
+}
+
+.reveal:has(#title-slide.present) .footer,
+.reveal:has(#title-slide.present) .slide-number {
+  display: none !important;
+}
+
+// Defense-specific: formal title-slide metadata block (author/institute/date/examiners)
+.reveal .title-slide .quarto-title-authors,
+.reveal .title-slide .quarto-title-affiliation {
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
+// Study/design-type tags (bold text highlighted with the study color) and matching image borders
+.tag-experiment { font-weight: 900; color: white; background-color: $color-experiment; padding: 0.05em 0.3em; border-radius: 0.2em; }
+.tag-validation { font-weight: 900; color: white; background-color: $color-validation; padding: 0.05em 0.3em; border-radius: 0.2em; }
+.tag-matching   { font-weight: 900; color: white; background-color: $color-matching; padding: 0.05em 0.3em; border-radius: 0.2em; }
+.tag-panel      { font-weight: 900; color: white; background-color: $color-panel; padding: 0.05em 0.3em; border-radius: 0.2em; }
+
+.border-experiment { border: 3px solid $color-experiment; }
+.border-validation { border: 3px solid $color-validation; }
+.border-matching   { border: 3px solid $color-matching; }
+.border-panel      { border: 3px solid $color-panel; }
