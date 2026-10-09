@@ -1,6 +1,6 @@
 ---
-title: "<br>Socio-Affective Dynamics in Misinformation Spread on Social Media<br>"
-subtitle: "<br> <br>Doctoral defence of Jula Lühring -- October 14, 2026<br>"
+title: "Socio-Affective Dynamics in Misinformation Spread on Social Media<br>"
+subtitle: "<br>Doctoral defence of Jula Lühring -- October 14, 2026<br>"
 format:
   revealjs:
     theme: [default, custom.scss]
@@ -18,9 +18,10 @@ format:
     citations-hover: true
     title-slide-attributes:
       data-background-image: logos-combined.png
-      data-background-size: 1200px
-      data-background-position: center 80%
+      data-background-size: 55%
+      data-background-position: center 90%
       data-visibility: uncounted
+    pdf-separate-fragments: true
 bibliography: references.bib
 csl: apa.csl
 link-citations: true
@@ -465,7 +466,7 @@ Emotions = predictions based on affect and experience [@lindquistFunctionalArchi
 :::
 
 
-# RQ1: Direction of effects {background-image="figures/causal_combined.png" background-size="15%" background-position="85% 70%"}
+# RQ1: Direction of effects {background-image="figures/causal_combined.png" background-size="15%" background-position="85% 85%"}
 
 
 ::: notes
@@ -477,7 +478,7 @@ Emotions = predictions based on affect and experience [@lindquistFunctionalArchi
 ::: 
 
 
-## [experiment]{.tag-experiment}: emotional state vs. response {background-image="figures/causal_em.png" background-size="7%" background-position="90% 5%"}
+## [experiment]{.tag-experiment}: emotional state vs. response {background-image="figures/causal_em.png" background-size="7%" background-position="95% 5%"}
 
 ::: columns
 
@@ -529,7 +530,7 @@ Luehring<sup>†</sup>, Shetty<sup>†</sup> et al. [-@luhringEmotionsMisinforma
 
 
 
-## [experiment]{.tag-experiment}: emotional state vs. response {background-image="figures/causal_me.png" background-size="7%" background-position="90% 5%"}
+## [experiment]{.tag-experiment}: emotional state vs. response {background-image="figures/causal_me.png" background-size="7%" background-position="95% 5%"}
 
 
 <br>
@@ -748,7 +749,7 @@ $\rightarrow$ generalizability > construct validity<sup>1</sup>
 :::
 
 
-## [matching]{.tag-matching}: effects on social media {background-image="figures/causal_me.png" background-size="7%" background-position="90% 5%"}
+## [matching]{.tag-matching}: effects on social media {background-image="figures/causal_me.png" background-size="7%" background-position="95% 5%"}
 
 ::: columns
 
@@ -788,7 +789,7 @@ $\rightarrow$ generalizability > construct validity<sup>1</sup>
 
 :::
 
-## [matching]{.tag-matching}: effects on emotions in discussions {background-image="figures/causal_me.png" background-size="7%" background-position="96% 4%"}
+## [matching]{.tag-matching}: effects on emotions in discussions {background-image="figures/causal_me.png" background-size="6%" background-position="97% 3%"}
 
 <br>
 
@@ -836,10 +837,10 @@ $\downarrow$ and **less** joy
 :::
 
 
-# Misinformation has effects on negative emotions, but the same emotions do not *necessarily* predict acceptance. {background-image="figures/causal_combined.png" background-size="20%" background-position="90% 90%"}
+# Misinformation has effects on negative emotions, but the same emotions do not *necessarily* predict acceptance. {background-image="figures/causal_combined.png" background-size="15%" background-position="90% 90%"}
 
 
-# RQ2: In the moment or over longer time periods? {background-image="figures/causal_feedback.png" background-size="20%" background-position="85% 70%"}
+# RQ2: In the moment or over longer time periods? {background-image="figures/causal_feedback.png" background-size="15%" background-position="90% 90%"}
 
 ::: notes
 
@@ -847,7 +848,7 @@ $\downarrow$ and **less** joy
 
 ::: 
 
-## [panel]{.tag-panel}: momentary vs. long-term emotions {background-image="figures/causal_feedback.png" background-size="7%" background-position="90% 5%"}
+## [panel]{.tag-panel}: momentary vs. long-term emotions {background-image="figures/causal_feedback.png" background-size="7%" background-position="95% 5%"}
 
 <br>
 
@@ -889,7 +890,7 @@ Pre-registered **longitudinal analysis** of a panel of 29k Austrian ordinary Twi
 :::
 
 
-## [panel]{.tag-panel}: momentary vs. long-term emotions {background-image="figures/causal_feedback.png" background-size="7%" background-position="90% 5%"}
+## [panel]{.tag-panel}: momentary vs. long-term emotions {background-image="figures/causal_feedback.png" background-size="7%" background-position="95% 5%"}
 
 <br>
 
@@ -897,7 +898,9 @@ Pre-registered **longitudinal analysis** of a panel of 29k Austrian ordinary Twi
 
 ::: {.column width="45%"}
 
-- **high average and fluctuating anger and fear** predict sharing of untrustworthy news
+- **average** $\rightarrow$ stable baseline over long time
+
+- **dynamics** $\rightarrow$ fluctuations and erratic changes 
 
 
 
@@ -945,11 +948,11 @@ $\rightarrow$ higher levels of and erratic emotional expressions predict sharing
 # Long-term emotions rather than momentary states predict engagement with misinformation. {background-image="figures/causal_feedback.png" background-size="20%" background-position="90% 90%"}
 
 
-# RQ3: At the individual or more collective levels? {background-image="figures/thesis_model.png" background-size="20%" background-position="90% 80%"}
+# RQ3: At the individual or more collective levels? {background-image="figures/thesis_model.png" background-size="20%" background-position="95% 90%"}
 
 ::: notes
 
-lastly, when we look at different levels
+- Lastly, when we look at different levels
 
 :::
 
