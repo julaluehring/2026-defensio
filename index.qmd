@@ -883,7 +883,7 @@ Pre-registered **longitudinal analysis** of a panel of 29k Austrian ordinary Twi
 
 ::: notes
 
-- in this study, we also relied on social media data, but instead of sampling based on news, we sample a relatively random set of users based on their location in Austria and we extracted everything they posted between 2019 and 2023, generating a social media panel dataset
+- in this study, we also relied on social media data, but instead of sampling based on news, we sampled ordinary users based on their location in Austria and we extracted everything they posted between 2019 and 2023, generating a social media panel dataset
 
 - and again, we find that whether they expressed an emotion did not predict them sharing untrustworthy news, which is line with the experiment
 
@@ -984,7 +984,7 @@ $\rightarrow$ mostly **event-driven:** higher emotions do not predict untrustwor
 
 - we could not find that this is the case
 
-- instead, as you can see here in the top panel, both spike with domestic and global crises
+- instead, as you can see here in the top panel, tweeting activity spikes with domestic and global crises
 
 - and the share of untrustworthy news, here in purple, remains overall very low
 
@@ -1184,7 +1184,7 @@ $\rightarrow$ platforms need to be held accountable and de-prioritize moralizing
 :::
 
 ::: notes
-- this rethinking has normative implications for the understanding of the motivated minority not as an angry mob but as a deeper structural conditions, not as a target for inoculation/nudging
+- this rethinking has normative implications for the understanding of the motivated minority not as an angry mob and a target for inoculation/nudging but as a diagnostic of deeper structural conditions
 
 - and the attention economy on social media platforms reinforcing the spread of hateful and potentially untrue content
 
@@ -1455,7 +1455,7 @@ $\rightarrow$ differential **aggregation**: visible patterns at individual/meso 
 
 
 
-## Appendix [matching]{.tag-matching}: effects on engagement {visibility = "uncounted" background-image="figures/thesis_model.png" background-size="7%" background-position="90% 5%"}
+## Appendix [matching]{.tag-matching}: effects on engagement {visibility = "uncounted"}
 
 ::: {.columns style="display: flex; align-items: center;"}
 
