@@ -649,7 +649,7 @@ Luehring<sup>†</sup>, Shetty<sup>†</sup> et al. [-@luhringEmotionsMisinforma
 
 ::: {.column width="47%"}
 
-### 1.) **Social media data**
+### Social media data
 
 - users reacting to misinformation in the real world 
 
@@ -658,21 +658,10 @@ Luehring<sup>†</sup>, Shetty<sup>†</sup> et al. [-@luhringEmotionsMisinforma
 <br>
 
 
-::: {style="position: relative; min-height: 220px;"}
 
-::: {.fragment .fade-in-then-out data-fragment-index="1" style="position: absolute; top: 0; left: 0; width: 100%;"}
+::: fragment
 
-### 2.) Misinformation as claims
-
-  -   misrepresents the broader spectrum of news
-
-  -   reflects distinct properties of extreme types
-
-:::
-
-::: {.fragment .fade-in data-fragment-index="2" style="position: absolute; top: 0; left: 0; width: 100%;"}
-
-### 2.) Misinformation as coming from unreliable sources
+### Misinformation as coming from unreliable sources
 
 - includes decontextualized content
 
@@ -682,7 +671,6 @@ Luehring<sup>†</sup>, Shetty<sup>†</sup> et al. [-@luhringEmotionsMisinforma
 
 :::
 
-:::
 
         
 :::
@@ -695,11 +683,11 @@ Luehring<sup>†</sup>, Shetty<sup>†</sup> et al. [-@luhringEmotionsMisinforma
 
 ::: fragment 
 
-...but this approach **conceptually blurry**
+...but this approach is **conceptually blurry**
 
-$\rightarrow$ no intent but lack of editorial standards?
+$\rightarrow$ lack of editorial standards but no intent to harm?
   
-![**Figure 1 revisited.**](figures/information_disorder.png){width="60%"}  
+![**Figure 1 revisited.**](figures/information_disorder.png){width="70%"}  
         
 :::
 
@@ -725,19 +713,13 @@ $\rightarrow$ generalizability > construct validity<sup>1</sup>
 
 [CLICK]
 
-- then, to detect misinformation in our datasets, we can rely on identifying false claims that were factchecked and compare them to more neutral claims
-
-- however, this misrepresents the broader spectrum of news and may reflect distinct topics or sensationalist reporting of these extreme types
+- then, to detect misinformation in our datasets, we measure misinformation as news coming from unreliable sources, which includes more subtle content, generalizes across topics and is scalable and reliable
 
 [CLICK]
 
-- so instead, we measure misinformation as news coming from unreliable sources, which includes more subtle content, generalizes across topics and is scalable and reliable
+- unfortunately, this operationalization is conceptually blurry as it assumes that all news from an unreliable source is equally false and does not have the intent to harm 
 
-[CLICK]
-
-- unfortunately, this operationalization is conceptually blurry as it assumes that all news from an unreliable source is equally false and it assumes that all sources do not have the intent to harm 
-
-- circling back to our definition, we can argue that online news media often lack editorial norms and frequently select and interpret factual events based on ideological preferences but they are rarely part of organized disinformation campaigns that aim at harming
+- circling back to our definition, I argue that unreliable news sources may lack editorial norms and twist factual events based on ideological preferences but they are rarely part of organized disinformation campaigns
 
 
 :::
