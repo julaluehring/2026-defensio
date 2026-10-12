@@ -53,7 +53,7 @@
     "href": "index.html#experiment-emotional-state-vs.-response",
     "title": "Socio-Affective Dynamics in Misinformation Spread on Social Media",
     "section": "experiment: emotional state vs. response",
-    "text": "experiment: emotional state vs. response\n\n\nPre-registered within-user experiment and replication of Martel et al. (2020)\n\nN=422 Austrian sample\n24 false/accurate COVID-19 news items\n\n\n\n\n\n\\(\\rightarrow\\) arousing emotional states did not predict misinformation acceptance\n\n\n\nLuehring†, Shetty† et al. (2024) †shared first authorship\n\n\n\nwe conducted a pre-registered within-person experiment, replicating colleagues by testing how good or bad 422 Austrian participants were at discerning false from true news items\nwe could not find that an emotional state before exposure to the news items predicted acceptance of false news"
+    "text": "experiment: emotional state vs. response\n\n\nPre-registered within-person experiment and replication of Martel et al. (2020)\n\nN=422 Austrian sample\n24 false/true COVID-19 news items\n\n\n\n\n\n\\(\\rightarrow\\) arousing emotional states did not predict misinformation acceptance\n\n\n\nLuehring†, Shetty† et al. (2024) †shared first authorship\n\n\n\nwe conducted a pre-registered within-person experiment, replicating colleagues by testing how good or bad 422 Austrian participants were at discerning false from true news items\nwe could not find that an emotional state before exposure to the news items predicted acceptance of false news"
   },
   {
     "objectID": "index.html#experiment-emotional-state-vs.-response-1",
@@ -81,7 +81,7 @@
     "href": "index.html#matching-effects-on-social-media",
     "title": "Socio-Affective Dynamics in Misinformation Spread on Social Media",
     "section": "matching: effects on social media",
-    "text": "matching: effects on social media\n\n\n\nCausal matching analysis of 9.9M German news tweets and 1M discussions (Oct 2020-Mar 2022)\n\n\n\n\n\nFigure 9. Data collection and pre-processing pipeline.\n\n\n\n\nLühring, Garcia, et al. (2025)\n\n\n\nwe applied these methods in practice in this paper, where we analyzed the effects of misinformation on engagement and emotions in discussions on Twitter\nso here, we used a list of German news sources with trustworthiness scores to find tweets mentioning them, and the discussion threads below\nthen, instead of randomizing as we would do in an experiment, we create synthetic control and treatment groups, with untrustworthy news being the treatment, and we make them statistically equivalent"
+    "text": "matching: effects on social media\n\n\n\nCausal matching analysis of 1M news discussions (Oct 2020-Mar 2022)\n\n\n\n\n\nFigure 9. Data collection and pre-processing pipeline.\n\n\n\n\nLühring, Garcia, et al. (2025)\n\n\n\nwe applied these methods in practice in this paper, where we analyzed the effects of misinformation on engagement and emotions in discussions on Twitter\nso here, we used a list of German news sources with trustworthiness scores to find tweets mentioning them, and the discussion threads below\nthen, instead of randomizing as we would do in an experiment, we create synthetic control and treatment groups, with untrustworthy news being the treatment, and we make them statistically equivalent"
   },
   {
     "objectID": "index.html#matching-effects-on-emotions-in-discussions",
