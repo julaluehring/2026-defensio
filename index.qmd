@@ -1163,6 +1163,8 @@ $\rightarrow$ journalists (and political communication more broadly, really) nee
 
 $\rightarrow$ platforms need to be held accountable and de-prioritize moralizing content
 
+$\rightarrow$ researchers need to shift from prevalence debates to the root causes and  secondary effects
+
 :::
 
 ::: notes
@@ -1176,13 +1178,7 @@ $\rightarrow$ platforms need to be held accountable and de-prioritize moralizing
 
 :::
 
-# Closing {.center}
 
-::: notes
-
-- concluding, for us researchers, this rethinking means shifting from debating how prevalent misinformation is to trying to better understand the root causes of misinformation, and how it may affect us and whole populations through secondary effects beyond belief.
-
-:::
 
 ## It takes a village{visibility="uncounted"}
 
